@@ -85,3 +85,6 @@ export const AppNavigator: React.FC = () => {
     </NavigationContainer>
   );
 }; 
+
+
+export {RootStackParamList}
