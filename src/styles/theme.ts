@@ -1,8 +1,8 @@
 export default {
     colors: {
-      primary: '#2A86FF',
-      secondary: '#00C48C',
-      background: '#F5F5F5',
+      primary: '#729DA6',
+      secondary: '#D8EEF2',
+      background: '#FFFEFC',
       text: '#333333',
       error: '#FF647C',
       success: '#00C48C',
